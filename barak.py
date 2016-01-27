@@ -1,5 +1,6 @@
 import nodeclass
 
+
 class Barak:
 
     def __init__(self,texture,position):
